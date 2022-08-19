@@ -1,4 +1,3 @@
-from webbrowser import get
 import pandas as pd
 from file_creators.Summary_file import summary_file
 from file_creators.Trending_file import trending_file
